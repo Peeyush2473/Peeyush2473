@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Peeyush Chauhan</h1>
 <h3 align="center">Engineering Student | Full-Stack Developer | Applied AI Enthusiast</h3>
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" height="300"/>
+</div>
+
 ---
 
 ## 💫 About Me
