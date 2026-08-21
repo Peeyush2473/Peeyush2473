@@ -77,8 +77,7 @@
 
 - Full-stack development  
 - Applied machine learning  
-- Mobile app development  
-- Cloud & DevOps fundamentals  
+- Mobile app development   
 - Building scalable, real-world systems  
 
 ---
